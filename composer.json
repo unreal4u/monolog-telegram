@@ -18,7 +18,7 @@
   "require": {
     "php": ">=7.0.0",
     "monolog/monolog": "~1.17",
-    "unreal4u/telegram-api": "~1.0"
+    "unreal4u/telegram-api": "~2.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "@stable",
