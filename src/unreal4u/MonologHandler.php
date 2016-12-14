@@ -6,7 +6,8 @@ namespace unreal4u;
 
 use Monolog\Logger;
 use Monolog\Handler\AbstractProcessingHandler;
-use unreal4u\Telegram\Methods\SendMessage;
+use unreal4u\TelegramAPI\Telegram\Methods\SendMessage;
+use unreal4u\TelegramAPI\TgLog;
 
 /**
  * Extends monolog to handle Telegram Messages
